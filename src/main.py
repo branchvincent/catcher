@@ -1,3 +1,4 @@
+import sys; sys.path.append('./common'); sys.path.append('./sensor')
 from klampt import *
 from common import *
 from math import *
