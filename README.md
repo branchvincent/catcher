@@ -1,5 +1,5 @@
 # Robo Catcher
-This is a robotic catcher developed for Introduction to Robotics & Automation course
+This is a robotic catcher developed for Introduction to Robotics & Automation course.
 
 ## Notes
 The table below describes the repository's organization.
